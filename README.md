@@ -18,7 +18,7 @@
             src="https://github-profile-trophy.vercel.app/?username=alex-gar" alt="alex-gar" /></a> </p>
 
 <br/>
-
+<!--
 ## My Skill Set
 <table>
     <tr>
@@ -72,8 +72,9 @@
         </td>
     </tr>
 </table>
-<br/>
 
+<br/>
+-->
 
 ## Github Stats
 <div align="center">
