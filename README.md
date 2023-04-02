@@ -16,10 +16,12 @@
 
 <br/>  
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex-gar" alt="alex-gar" /></a> </p>
+
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -57,6 +59,18 @@
 <br/>  
 
 
+## Github Stats  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" /> 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-gar&" alt="alex-gar" /></p>
+</div>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-gar&show_icons=true&locale=en&layout=compact" alt="alex-gar" /></p>
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/alex-gar" target="_blank">
@@ -69,21 +83,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 
 ## Recent Blog Posts  
-  
-
-<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=vgynnrqnqe98cd0avv6bejvzu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vgynnrqnqe98cd0avv6bejvzu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /></div>  
 
@@ -93,11 +96,9 @@
 <img src="https://komarev.com/ghpvc/?username=alex-gar&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center"></div>
 <br />
 
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
