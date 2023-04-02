@@ -66,11 +66,11 @@
 
 
 <br/>  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-gar&show_icons=true&locale=en&layout=compact" alt="alex-gar" /></p>
 
-<br/>  
 
-<br/>  
+
+
+
 
 ## Connect with me  
 <div align="center">
