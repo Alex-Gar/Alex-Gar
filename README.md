@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning Hyperledger
 
-<br />
+<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=alex-gar" alt="alex-gar" /></a> </p>
 
-<br />
+<br/>
 
 ## My Skill Set
-<table align="center">
+<table>
     <tr>
         <td valign="top" width="33%">
 
@@ -72,7 +72,7 @@
         </td>
     </tr>
 </table>
-<br />
+<br/>
 
 
 ## Github Stats
@@ -90,7 +90,7 @@
 
 </div>
 
-<br />
+<br/>
 
 ## Connect with me
 <div align="center">
@@ -109,7 +109,7 @@
     </a>
 </div>
 
-<br />
+<br/>
 
 ## Recent Blog Posts
 
@@ -117,15 +117,15 @@
         src="https://spotify-github-profile.vercel.app/api/view.svg?uid=vgynnrqnqe98cd0avv6bejvzu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vgynnrqnqe98cd0avv6bejvzu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=alex-gar&&style=flat-square" align="center" />
 </div>
 
-<br />
+<br/>
 
 <div align="center"></div>
-<br />
+<br/>
 
 </div>
