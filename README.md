@@ -62,9 +62,8 @@
 ## Github Stats  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" /> 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-gar&" alt="alex-gar" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-gar&show_icons=true&locale=en&layout=compact" alt="alex-gar" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-gar&" alt="alex-gar" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-gar&show_icons=true&locale=en&layout=compact" alt="alex-gar" />
 </div>
 
 <br/>
