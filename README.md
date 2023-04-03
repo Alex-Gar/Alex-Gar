@@ -1,7 +1,4 @@
-<div align="center">
-    <img src="https://png.pngtree.com/background/20210712/original/pngtree-abstract-modern-neon-frame-background-picture-image_1178251.jpg"
-        align="center" style="width: 100%" />
-</div>
+
 
 <div align="center">I'm Alex, a full-stack freelance developer 👨‍💻 <br /> working remotely 🚀</div>
 
