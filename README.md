@@ -1,6 +1,6 @@
 
 
-<div align="center">I'm Alex, a full-stack freelance developer 👨‍💻 <br /> working remotely 🚀</div>
+<div align="center"><h1 >I'm Alex, a full-stack freelance developer 👨‍💻 <br /> working remotely 🚀<h1></div>
 
 <div align="center">🔭 I’m currently working on [Alex-Gar]
 
