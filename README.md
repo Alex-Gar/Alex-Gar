@@ -91,7 +91,7 @@
 
 <br/>
 
-## Recent Blog Posts
+
 
 <div align="center"><img
         src="https://spotify-github-profile.vercel.app/api/view.svg?uid=vgynnrqnqe98cd0avv6bejvzu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vgynnrqnqe98cd0avv6bejvzu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
