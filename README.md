@@ -12,9 +12,10 @@
 <br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=alex-gar" alt="alex-gar" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=alex-gar&theme=dracula" alt="alex-gar" /></a> </p>
 
 <br/>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
