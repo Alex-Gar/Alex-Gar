@@ -1,4 +1,4 @@
-
+<img src=""/>
 
 <div align="center"><h1 >I'm Alex, a full-stack freelance developer 👨‍💻 <br /> working remotely 🚀<h1></div>
 
@@ -90,8 +90,6 @@
 </div>
 
 <br/>
-
-
 
 <div align="center"><img
         src="https://spotify-github-profile.vercel.app/api/view.svg?uid=vgynnrqnqe98cd0avv6bejvzu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vgynnrqnqe98cd0avv6bejvzu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
