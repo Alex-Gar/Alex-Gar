@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Alexis García, a Developer 🚀 from México.
+## Hola, soy Alexis García, desarrollador back-end 🚀 de México.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -24,8 +24,10 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Pregúntame sobre cualquier cosa, estaré feliz de ayudar;
 - 📫 Cómo contactarme: ale.ag538@gmail.com;
 
-**Lenguajes y herramientas:** 
 <br />
+<br />
+**Lenguajes y herramientas:** 
+
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
