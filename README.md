@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 - 📫 Cómo contactarme: ale.ag538@gmail.com;
 
 **Lenguajes y herramientas:** 
-
+</br>
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
@@ -48,7 +48,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-</br>
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
 </p>
