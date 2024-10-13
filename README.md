@@ -6,12 +6,10 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-    
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Alex-Gar/Alex-Gar)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/alex-garcia-73a915314)
   [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_alexgar/)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ale.ag538@gmail.com)
-    
 </div>
     &nbsp;
     
@@ -27,7 +25,6 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Pregúntame sobre cualquier cosa, estaré feliz de ayudar;
 - 📫 Cómo contactarme: ale.ag538@gmail.com;
     
-<br />
 <br />
     
 <h2 align="left" id="macropower-tech">Tecnologías favoritas</h2>
@@ -133,7 +130,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Alex-Gar&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Alex-Gar&show_icons=true">
 </picture>
-
+      
 **Copialo y ejecutalo**
 
     public class Corazon {
@@ -172,5 +169,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
         dibujarCorazon(tamañoCorazon);
      }
     }
-
-    
