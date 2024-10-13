@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 - 📫 Cómo contactarme: ale.ag538@gmail.com;
 
 **Lenguajes y herramientas:** 
-</br>
+<br />
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
