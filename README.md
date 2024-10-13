@@ -1,6 +1,7 @@
 <!-- Your title -->
+<div  align="center">
 ## Hola, soy Alexis García, desarrollador back-end 🚀 de México.
-
+</div>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
