@@ -126,11 +126,16 @@ You can use this sites to get logos: https://www.vectorlogo.zone or https://simp
   <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
+ &nbsp;
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Alex-Gar&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Alex-Gar&show_icons=true">
 </picture>
-      
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gar&theme=dark)](https://github.com/Alex-Gar/github-readme-stats)
+
+ &nbsp;
+ 
 **Copialo y ejecutalo**
 
     public class Corazon {
