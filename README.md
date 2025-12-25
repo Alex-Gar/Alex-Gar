@@ -19,9 +19,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/Alex-Gar/Alex-Gar/blob/main/logo_r.png?raw=true" />
     
-- 👨🏽‍💻 Actualmente estudiando Ingenieria en informtatica
-- 🌱 Aprendiendo MSVC;
-- 👯 Estoy buscando colaborar con nuevos proyectos 🤝;
+- 👨🏽‍💻 Ingenierio en informtatica;
+- 🌱 Aprendiendo Microservicios;
 - 💬 Pregúntame sobre cualquier cosa, estaré feliz de ayudar;
 - 📫 Cómo contactarme: ale.ag538@gmail.com;
     
